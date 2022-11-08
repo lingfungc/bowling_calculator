@@ -1,7 +1,3 @@
-const bowlingScore = (rolls) => {
+console.log("Test GitHub Revert");
 
-};
-
-rolls = []
-
-console.log(bowlingScore(rolls));
+console.log("testing");
